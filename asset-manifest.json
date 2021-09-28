@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/Website_Personal_Portfolio/static/js/main.42531184.chunk.js",
+    "main.js.map": "/Website_Personal_Portfolio/static/js/main.42531184.chunk.js.map",
+    "runtime-main.js": "/Website_Personal_Portfolio/static/js/runtime-main.12d1330b.js",
+    "runtime-main.js.map": "/Website_Personal_Portfolio/static/js/runtime-main.12d1330b.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/Website_Personal_Portfolio/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.e7645f2b.chunk.js": "/Website_Personal_Portfolio/static/js/2.e7645f2b.chunk.js",
+    "static/js/2.e7645f2b.chunk.js.map": "/Website_Personal_Portfolio/static/js/2.e7645f2b.chunk.js.map",
+    "index.html": "/Website_Personal_Portfolio/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/Website_Personal_Portfolio/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.e7645f2b.chunk.js.LICENSE.txt": "/Website_Personal_Portfolio/static/js/2.e7645f2b.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/Website_Personal_Portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/Website_Personal_Portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/Website_Personal_Portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.c8a4601c.png": "/Website_Personal_Portfolio/static/media/about-page-img.c8a4601c.png",
+    "static/media/about-sec-img.37e0b4bc.png": "/Website_Personal_Portfolio/static/media/about-sec-img.37e0b4bc.png",
+    "static/media/aptofa.65c0efbd.png": "/Website_Personal_Portfolio/static/media/aptofa.65c0efbd.png",
+    "static/media/hero.b4b83a6c.png": "/Website_Personal_Portfolio/static/media/hero.b4b83a6c.png",
+    "static/media/map.7d98ba39.png": "/Website_Personal_Portfolio/static/media/map.7d98ba39.png",
+    "static/media/moba.c810019c.png": "/Website_Personal_Portfolio/static/media/moba.c810019c.png",
+    "static/media/paytrixx.6ba4c96d.png": "/Website_Personal_Portfolio/static/media/paytrixx.6ba4c96d.png",
+    "static/media/proessayhelp.751df242.png": "/Website_Personal_Portfolio/static/media/proessayhelp.751df242.png",
+    "static/media/projectImg.771236e1.png": "/Website_Personal_Portfolio/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/Website_Personal_Portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/Website_Personal_Portfolio/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/tapme.3b925f5b.png": "/Website_Personal_Portfolio/static/media/tapme.3b925f5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d1330b.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.e7645f2b.chunk.js",
+    "static/js/main.42531184.chunk.js"
+  ]
+}
