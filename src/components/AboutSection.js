@@ -80,7 +80,7 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I am a software engineer, security and developer from Boxintegrity.
+            I am a software engineer, security and developer from CYBER-IFRIT.
             {/* Bangladesh. I create professional websites. I love art and always */}
             {/* try to show unique views to the audience through my design. */}
           </PText>

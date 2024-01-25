@@ -161,7 +161,7 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              I'm The CEO of Boxintegrity CyberTech, Sr. Software Engineer
+              I'm The Founder of CYBER-IFRIT, Sr. Software Engineer, Sr. Software Developer, Sr. Flutter Engineer
             </PText>
             <Button btnText="see my works" btnLink="/projects" />
           </div>

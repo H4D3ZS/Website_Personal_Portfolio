@@ -100,8 +100,8 @@ export default function Footer() {
                 path: 'tel:+63 9517903414',
               },
               {
-                title: 'boxintegritycybertech@gmail.com',
-                path: 'mailto:boxintegritycybertech@gmail.com',
+                title: 'cyberifritdev@gmail.com',
+                path: 'mailto:cyberifritdev@gmail.com',
               },
               {
                 title: 'General, Santos, City',
@@ -133,9 +133,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2021 - Rolando H Ferrer Jr |
-            <a target="_blank" rel="noreferrer" href="https://boxintegrity.com">
-              Boxintegrity CyberTech
+            © 2023 - Rolando H Ferrer Jr |
+            <a target="_blank" rel="noreferrer" href="https://cyber-ifrit.com">
+            CYBER-IFRIT
             </a>{' '}
           </PText>
         </div>
